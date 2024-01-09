@@ -2,7 +2,7 @@
 
 🍀 I’m currently learning React!
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabe9T&layout=compact&langs_count=8&theme=transparent&hide_border=true)](https://github.com/Gabe9T)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabe9T&layout=compact&langs_count=8&theme=transparent&hide_border=true)]
 
 ![](https://komarev.com/ghpvc/?username=Gabe9T&style=plastic-square&color=grey)
 
