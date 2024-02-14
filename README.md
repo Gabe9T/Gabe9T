@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+
+Hi there 👋
 
 🍀 I’m currently learning C#!
 <br />
@@ -6,6 +8,11 @@
 <br />
 ![](https://komarev.com/ghpvc/?username=Gabe9T&style=plastic-square&color=grey)
 
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vite,firebase,cs,dotnet,mysql,ruby" />
+  </a>
+</p>
 <!--
 **Gabe9T/Gabe9T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
