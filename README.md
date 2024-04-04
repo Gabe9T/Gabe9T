@@ -29,7 +29,7 @@ Hi there 👋
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-  <a href="https://skillicons.dev">
+  <!--<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,firebase,cs,dotnet,mysql,bash,html,css,bootstrap,git,nodejs,postman&perline=8" />
   </a>
 </p>
