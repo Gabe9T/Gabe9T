@@ -1,12 +1,12 @@
 <p align="center">
 
 Hi there 👋
-
-🍀 I’m currently learning C#!
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabe9T&layout=compact&langs_count=8&theme=transparent&hide_border=true)](https://github.com/Gabe9T)
 <br />
 ![](https://komarev.com/ghpvc/?username=Gabe9T&style=plastic-square&color=grey)
+
+## Languages and Tools
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
