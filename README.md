@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./readme-header.png)
 
 <p align="center">
 
